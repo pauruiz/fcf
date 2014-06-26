@@ -1,7 +1,7 @@
 fcf
 ===
 
-REST API to connect to Catalan Footbal Federation
+REST API to connect to Catalan Football Federation
 
 Working at 2014-01.
 
